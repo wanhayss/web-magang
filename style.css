@@ -31,10 +31,3 @@ footer{
     text-align: center;
     margin-bottom: 1rem;
 }
-
-footer table {
-    background-color: rgb(153, 153, 153);
-    width: 100%;
-    border-collapse: collapse;
-    margin: 1rem 0;
-}
